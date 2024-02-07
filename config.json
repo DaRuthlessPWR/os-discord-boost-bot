@@ -1,0 +1,28 @@
+{
+    "token": "",
+    "dev-guilds": [
+        ""
+    ],
+    "ltc": "LTC",
+    "bitcoin": "BTC",
+    "owners": [
+        "",
+        "",
+        ""
+    ],
+    "admins": [
+        "",
+        "",
+        ""
+    ],
+    "port": 80,
+    "proxyless": true,
+    "sellapp": {
+        "invite_field_name": "invite",
+        "orders": ""
+    },
+    "sellix": {
+        "invite_field_name": "invite",
+        "orders": ""
+    }
+}
